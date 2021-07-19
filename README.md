@@ -73,7 +73,15 @@
 
 <br/>
 
+## git contributions in the last year
+
+<img src="./images/contributions.png" align="center" />
+<br/>
+<br/>
+
 ## Connect with me
+
+<br/>
 
 <div align="center">
 <a href="https://github.com/HoSeopLee" target="_blank">
