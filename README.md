@@ -24,7 +24,7 @@
 
 - ## [Dmonster](./Dmonster/README.md)
   - 2020.08 ~
-- ## [FreshNTech](./FreshNTech/README.md)
+- ## [FreshNTech](./FreshNTect/README.md)
   - 2019.07~ 2020.02
   - 학기중 취직하게 되어 교내 활동기간과 겹치게 되었습니다.
   - 취직은 하였지만 개발자 회사가 분리가 되면서 퇴사 결정을 하게되었습니다.
