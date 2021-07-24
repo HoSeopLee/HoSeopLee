@@ -9,22 +9,36 @@
 
 ### <div align="center">🚀I am currently developing ReactNative cross-platform.</div>
 
-<br/>
-<br/>
+</br>
+</br>
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/HoSeopLee)
 
 - 🌱 I am currently studying node js and algorithms.
 
-<br/>
+</br>
+
+# My Portfolio
+
+</br>
+
+- ## [Dmonster](./Dmonster/README.md)
+  - 2020.08 ~
+- ## [FreshNTech](./FreshNTech/README.md)
+  - 2019.07~ 2020.02
+  - 학기중 취직하게 되어 교내 활동기간과 겹치게 되었습니다.
+  - 취직은 하였지만 개발자 회사가 분리가 되면서 퇴사 결정을 하게되었습니다.
+- ## [Student project](./Student_Project/README.md)
+  - 2013.03 ~ 2020.02
+    </br>
 
 ## My Skill Set
 
-<br/>
+</br>
 
 ## <div align="center">Frontend</div>
 
-<br/>
+</br>
 <div align="center">
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -37,11 +51,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chart-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
 </p>
-<br/>
+</br>
+</div>
+ <div align="center">Backend</div>
 
-## <div align="center">Backend</div>
-
-<br/>
+</br>
 <div align="center">
 <p>
   <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -52,11 +66,11 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
 
 </p>
-<br/>
+</br>
+</div>
+<div align="center">...</div>
 
-## <div align="center">...</div>
-
-<br/>
+</br>
 <div align="center">
 <p>
   <img src="https://img.shields.io/badge/AWS-535D6C?style=flat-square&logo=AmazonAws&logoColor=white"/>
@@ -64,24 +78,24 @@
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=black"/>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
-
+</div>
 </td></tr></table>
 
-<br/>
+</br>
 
-<br/>
+</br>
 
-<br/>
+</br>
 
 ## git contributions in the last year
 
 <img src="./images/contributions.png" align="center" />
-<br/>
-<br/>
+</br>
+</br>
 
-## Connect with me
+## <div align="center">Connect with me</div>
 
-<br/>
+</br>
 
 <div align="center">
 <a href="https://github.com/HoSeopLee" target="_blank">
@@ -97,12 +111,12 @@
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=HoSeopLee&&style=flat-square" align="center" />
 </div>
 
-<br />
+<br /> -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoSeopLee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoSeopLee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![footer](https://capsule-render.vercel.app/api?color=gradient&section=footer&height=300&selection=header&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?color=gradient&section=footer&height=300&selection=header&fontSize=90) -->
