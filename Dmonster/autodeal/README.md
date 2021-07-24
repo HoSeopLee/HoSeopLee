@@ -198,29 +198,29 @@
 
  <tr style="width:100%;">
       <td align='center'style="width:33%;padding:1% 2%;">
-        <img src='../images/autodeal/admin/5.jpg' style="width:100%;height:300px;;" />
+        <img src='../images/autodeal/admin/5.JPG' style="width:100%;height:300px;;" />
       </td>
         <td align='center'style="width:33%;padding:1% 2%;">
-        <img src='../images/autodeal/admin/6.jpg' style="width:100%;height:300px;;" />
+        <img src='../images/autodeal/admin/6.JPG' style="width:100%;height:300px;;" />
       </td>
             <td align='center'style="width:33%;padding:1% 2%;">
-        <img src='../images/autodeal/admin/7.jpg' style="width:100%;height:300px;;" />
+        <img src='../images/autodeal/admin/7.JPG' style="width:100%;height:300px;;" />
       </td>
   </tr>
   <tr style="width:100%;">
         <td align='center'style="width:33%;padding:1% 2%;">
-        <img src='../images/autodeal/admin/8.jpg' style="width:100%;height:300px;;" />
+        <img src='../images/autodeal/admin/8.JPG' style="width:100%;height:300px;;" />
       </td>
         <td align='center'style="width:33%;padding:1% 2%;">
-        <img src='../images/autodeal/admin/9.jpg' style="width:100%;height:300px;;" />
+        <img src='../images/autodeal/admin/9.JPG' style="width:100%;height:300px;;" />
       </td>
       <td align='center'style="width:33%;padding:1% 2%;">
-        <img src='../images/autodeal/admin/10.jpg' style="width:100%;height:300px;;" />
+        <img src='../images/autodeal/admin/10.JPG' style="width:100%;height:300px;;" />
       </td>
   </tr>
    <tr style="width:100%;">
       <td align='center'style="width:33%;padding:1% 2%;">
-        <img src='../images/autodeal/admin/12.jpg' style="width:100%;height:300px;;" />
+        <img src='../images/autodeal/admin/12.JPG' style="width:100%;height:300px;;" />
       </td>
   </tr>
 
