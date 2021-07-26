@@ -17,7 +17,7 @@
         <img src='./images/autodeal/autodeal_2.png' style="width:100%;height:180px" />
         </a>
       </td>
-        <td align='center'style="width:33%;padding:1%;">
+      <td align='center'style="width:33%;padding:0% 1%;">
         <a href="./daltalk/README.md" id="daltalk" >
         <img src='./images/daltalk/daltalk.png' style="width:100%;height:180px" />
         </a>
