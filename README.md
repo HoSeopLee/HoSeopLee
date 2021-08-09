@@ -1,6 +1,6 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?color=gradient&height=300&selection=header&text=HoSeopLee&fontSize=90&)
+<!-- 
+![header](https://capsule-render.vercel.app/api?color=gradient&height=300&selection=header&text=HoSeopLee&fontSize=90&) -->
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAyMDAzMTVfMjY0/MDAxNTg0MjU5ODgyNTQ5.Uwz1guxMV9SVXLW7iDEDmtlbVstumgn84AeSu42rjyMg.WcCNq2ZO5hFqcV8y9RbyiBNCW0TNSXAZk5co7rpnv7Qg.JPEG.se___ovo/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B0%B0%EA%B2%BD%ED%99%94%EB%A9%B4%EC%9E%90%EC%97%B002.jpg?type=w800" align="center" style="border-radius: 10px 100px/120px;" />
 </div>
@@ -112,11 +112,11 @@
 <br />
 
 <div align="center">
+
+<llss2ssll@gmail.com>
+
 <img src="https://komarev.com/ghpvc/?username=HoSeopLee&&style=flat-square" align="center" />
 </div>
-
 <br />
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHoSeopLee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![footer](https://capsule-render.vercel.app/api?color=gradient&section=footer&height=300&selection=header&fontSize=90)
