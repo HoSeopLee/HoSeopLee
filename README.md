@@ -2,7 +2,9 @@
 <!-- 
 ![header](https://capsule-render.vercel.app/api?color=gradient&height=300&selection=header&text=HoSeopLee&fontSize=90&) -->
 
-<img src="https://mblogthumb-phinf.pstatic.net/MjAyMDAzMTVfMjY0/MDAxNTg0MjU5ODgyNTQ5.Uwz1guxMV9SVXLW7iDEDmtlbVstumgn84AeSu42rjyMg.WcCNq2ZO5hFqcV8y9RbyiBNCW0TNSXAZk5co7rpnv7Qg.JPEG.se___ovo/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B0%B0%EA%B2%BD%ED%99%94%EB%A9%B4%EC%9E%90%EC%97%B002.jpg?type=w800" align="center" style="border-radius: 10px 100px/120px;" />
+<img src="https://mblogthumb-phinf.pstatic.net/MjAyMDAzMTVfMjY0/MDAxNTg0MjU5ODgyNTQ5.Uwz1guxMV9SVXLW7iDEDmtlbVstumgn84AeSu42rjyMg.WcCNq2ZO5hFqcV8y9RbyiBNCW0TNSXAZk5co7rpnv7Qg.JPEG.se___ovo/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%B0%B0%EA%B2%BD%ED%99%94%EB%A9%B4%EC%9E%90%EC%97%B002.jpg?type=w800" align="center" 
+style="border-radius: 10px 100px/120px;" />
+
 </div>
 
 ### <div align="center">👋Hi! I am a front-end developer.</div>
@@ -115,8 +117,8 @@
 
 <llss2ssll@gmail.com>
 
-<img src="https://komarev.com/ghpvc/?username=HoSeopLee&&style=flat-square" align="center" />
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoSeopLee&show_icons=true&theme=radical) -->
+
 </div>
-<br />
 
 ![footer](https://capsule-render.vercel.app/api?color=gradient&section=footer&height=300&selection=header&fontSize=90)
