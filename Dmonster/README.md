@@ -33,17 +33,7 @@
  
   
   </tr>
-  <tr style="width:100%; ">
-      <td align='center'style="width:33%;padding:1%;">
-      php, react-native, mysql, bootstrap
-      </td>
-      <td align='center'style="width:33%;padding:1%;">
-      node, socat.io, php, react-native, mysql, bootstrap
-      </td>
-      <td align='center'style="width:33%;padding:1%;">
-      php, react-native, mysql
-      </td>
-  </tr>
+  
 </table>
 
 <br/>
