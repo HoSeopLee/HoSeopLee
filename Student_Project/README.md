@@ -12,7 +12,7 @@
   </tr>
   <tr style="width:100%; ">
       <td align='center'style="width:25%;padding:1%;">
-        <img src='./images/smart.png' style="width:100%;height:400px;" />
+        <img src='./images/smart.png' style="width:100%;justify-content: center;align-items: center;" />
         졸업 논문작성
       </td>
 
@@ -38,15 +38,15 @@
   </tr>
   <tr style="width:100%; ">
       <td align='center'style="width:33%;padding:1%;">
-        <img src='./images/on_off.png' style="width:100%;height:180px" />
+        <img src='./images/on_off.png' style="width:100%;justify-content: center;align-items: center;" />
         &nbsp;
       </td>
         <td align='center'style="width:33%;padding:1%;">
-        <img src='./images/funding.png' style="width:100%;height:180px" />
+        <img src='./images/funding.png' style="width:100%;justify-content: center;align-items: center;" />
         &nbsp;
       </td>
       <td align='center'style="width:33%;padding:1%;">
-        <img src='./images/food.png' style="width:100%;height:180px" />
+        <img src='./images/food.png' style="width:100%;justify-content: center;align-items: center;" />
         상상프로젝트 장려상
       </td>
   </tr>
@@ -71,7 +71,7 @@
   </tr>
   <tr style="width:100%; ">
       <td align='center'style="width:33%;padding:1%;">
-        <img src='./images/fire.png' style="width:100%;height:180px" />
+        <img src='./images/fire.png' style="width:100%;justify-content: center;align-items: center;" />
         2018 G-Star b2b040 전시</br>
         학부생 연구프로그램 URP 참여
       </td>
@@ -81,7 +81,7 @@
         &nbsp;
       </td>
         <td align='center'style="width:33%;padding:1%;">
-        <img src='./images/can.png' style="width:100%;height:180px" />
+        <img src='./images/can.png' style="width:100%;justify-content: center;align-items: center;" />
        2018 RedDat Design Award Winner 수상 </br>
       2018 교내 링크페어 우수상
       </td>
@@ -106,7 +106,7 @@
   </tr>
   <tr style="width:100%; ">
       <td align='center'style="width:50%;padding:1%;">
-        <img src='./images/ios.png' style="width:100%;height:180px" />
+        <img src='./images/ios.png' style="width:100%;justify-content: center;align-items: center;" />
        &nbsp;
       </td>
    <td align='center'style="width:50%;padding:1%;">
@@ -137,25 +137,25 @@
   </tr>
   <tr style="width:100%; ">
       <td align='center'style="width:33%;padding:1%;">
-        <img src='./images/의수.png' style="width:100%;height:180px" />
+        <img src='./images/의수.png' style="width:100%;justify-content: center;align-items: center;" />
       ㈜앱트로닉스 기업 과제
       </td>
         <td align='center'style="width:33%;padding:1%;">
-        <img src='./images/홀로렌즈.png' style="width:100%;height:180px" />
+        <img src='./images/홀로렌즈.png' style="width:100%;justify-content: center;align-items: center;" />
           교내 Development 콘테스트 우수상
       </td>
       <td align='center'style="width:33%;padding:1%;">
-        <img src='./images/Arduino.png' style="width:100%;height:180px" />
+        <img src='./images/Arduino.png' style="width:100%;justify-content: center;align-items: center;" />
         SW 기초프로젝트 최우수(교내)
       </td>
   </tr>
   <tr style="width:100%; ">
-      <td align='center'style="width:25%;padding:1%;">
+      <td align='center'style="width:33%;padding:1%;">
         Android Studio, Arduino
       </td> 
-      <td align='center'style="width:25%;padding:1%;">
+      <td align='center'style="width:33%;padding:1%;">
       Unity, 홀로렌즈</td>
-      <td align='center'style="width:25%;padding:1%;">
+      <td align='center'style="width:33%;padding:1%;">
       Arduino</td>
   </tr>
 </table>

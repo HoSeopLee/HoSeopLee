@@ -13,7 +13,7 @@
 </br>
 </br>
 <div>
-<img src='../images/daltalk/daltalk_app.png' style="width:100%;height;" />
+<img src='../images/daltalk/daltalk_app.png' style="width:100%;justify-content: center;align-items: center;" />
 </div>
 
 </br>

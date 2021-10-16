@@ -12,14 +12,14 @@
 </td>
   </tr>
   <tr style="width:100%; ">
-      <td align='center'style="width:50%;padding:0% 1%;">
+      <td align='center'style="width:50%;padding:0% 1%; justify-content: center;align-items: center; ">
       <a href="./autodeal/README.md" id="autodeal" >
-          <img src='./images/autodeal/autodeal_2.png' style="width:100%; height:300px" />
+          <img src='./images/autodeal/autodeal_2.png' style="width:100%;" />
         </a>
       </td>
-      <td align='center'style="width:50%;padding:0% 1%;">
+      <td align='center'style="width:50%;padding:0% 1%; justify-content: center;align-items: center; ">
         <a href="./daltalk/README.md" id="daltalk" >
-          <img src='./images/daltalk/daltalk.png' style="width:100%; height:300px" />
+          <img src='./images/daltalk/daltalk.png' style="width:100%;" />
         </a>
         &nbsp;
       </td>
