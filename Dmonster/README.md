@@ -26,14 +26,24 @@
       </td>
       <td align='center'style="width:33%; padding:0% 1%; justify-content: center;align-items: center; ">
         <a href="./daltalk/README.md" id="daltalk" >
-          <img src='./images/lhsh/lhsh.png' style="width:100%;" />
+          <img src='./images/lhsh/lhsh.jpeg' style="width:100%;" />
         </a>
         &nbsp;
       </td>
  
   
   </tr>
-  
+  <tr style="width:100%; ">
+      <td align='center'style="width:33%;padding:1%;">
+      php, react-native, mysql, bootstrap
+      </td>
+      <td align='center'style="width:33%;padding:1%;">
+      node, socat.io, php, react-native, mysql, bootstrap
+      </td>
+      <td align='center'style="width:33%;padding:1%;">
+      php, react-native, mysql
+      </td>
+  </tr>
 </table>
 
 <br/>
