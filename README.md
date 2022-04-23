@@ -85,16 +85,6 @@ style="border-radius: 10px 100px/120px;" />
 
 </br>
 
-</br>
-
-</br>
-
-## git contributions in the last year
-
-<img src="./images/contributions.png" align="center" />
-</br>
-</br>
-
 ## <div align="center">Connect with me</div>
 
 </br>
