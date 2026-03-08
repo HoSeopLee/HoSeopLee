@@ -25,7 +25,7 @@ style="border-radius: 10px 100px/120px;" />
 </br>
 
 - ## <a href="#" target="_blank">SmartM2M</a>
-  - 2020.10 ~
+  - 2022.10 ~
 - ## <a href="https://leehoseop.notion.site/5c714cecda1742d28201fe9304c85e38?v=43c0a72b7b2c4b719e7f0c7b4cfa3b51" target="_blank">Dmonster</a>
   - 2020.08 ~ 2022.10
 - ## <a href="https://leehoseop.notion.site/3285851c64e340ee9abddc2851d88e05?v=6b1a11450f034f4984631f8849138813" target="_blank">FreshNTech</a>
