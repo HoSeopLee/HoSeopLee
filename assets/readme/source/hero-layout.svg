@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">DEV_Broccoli — Frontend Engineer</title>
+  <desc id="desc">되는 방법을 끝까지 찾는 프론트엔드 개발자 이호섭의 GitHub 프로필입니다.</desc>
+
+  <defs>
+    <clipPath id="avatar-clip">
+      <rect x="847" y="92" width="230" height="230" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <rect width="1200" height="400" rx="28" fill="#0D1117"/>
+  <rect x="1" y="1" width="1198" height="398" rx="27" fill="none" stroke="#30363D" stroke-width="2"/>
+
+  <g aria-hidden="true">
+    <circle cx="42" cy="34" r="7" fill="#FF7B72"/>
+    <circle cx="66" cy="34" r="7" fill="#D29922"/>
+    <circle cx="90" cy="34" r="7" fill="#3FB950"/>
+    <rect x="116" y="21" width="300" height="26" rx="13" fill="#161B22"/>
+    <text x="136" y="39" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">github.com/HoSeopLee</text>
+    <line x1="0" y1="66" x2="1200" y2="66" stroke="#30363D"/>
+  </g>
+
+  <g transform="translate(58 108)">
+    <text x="0" y="0" fill="#7EE787" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="600" letter-spacing="2">FRONTEND ENGINEER</text>
+    <text x="0" y="72" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="62" font-weight="750">DEV_Broccoli</text>
+    <text x="0" y="122" fill="#B1BAC4" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25">되는 방법을 끝까지 찾는</text>
+    <text x="0" y="158" fill="#B1BAC4" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="25">프론트엔드 개발자입니다.</text>
+
+    <g transform="translate(0 206)">
+      <rect width="494" height="42" rx="21" fill="#161B22" stroke="#30363D"/>
+      <circle cx="24" cy="21" r="6" fill="#3FB950"/>
+      <text x="42" y="27" fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">React · TypeScript · Product Engineering</text>
+    </g>
+  </g>
+
+  <g id="profile" aria-label="HoSeopLee GitHub profile image">
+    <rect x="810" y="76" width="304" height="304" rx="38" fill="#161B22" stroke="#30363D" stroke-width="2"/>
+    <image x="847" y="92" width="230" height="230" href="avatar.png" preserveAspectRatio="xMidYMid slice" clip-path="url(#avatar-clip)"/>
+    <rect x="856" y="338" width="212" height="38" rx="19" fill="#0D1117" stroke="#30363D"/>
+    <circle cx="880" cy="357" r="6" fill="#3FB950"/>
+    <text x="896" y="363" fill="#F0F6FC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17">@HoSeopLee</text>
+  </g>
+</svg>
